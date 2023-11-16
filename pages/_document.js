@@ -24,7 +24,7 @@ class MyDocument extends Document {
           />
           <link rel="manifest" href="/favicon/site.webmanifest" />
 
-pipokjgkjgdfkjsgjkbhsdf
+<head>pipokjgkjgdfkjsgjkbhsdf>
         </Head>
         <body>
           <Main />
